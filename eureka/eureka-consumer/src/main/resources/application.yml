@@ -1,0 +1,6 @@
+server:
+  port: 8057
+
+spring:
+  application:
+    name: hello-consumer
